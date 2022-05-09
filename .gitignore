@@ -3,3 +3,6 @@ Final_version/model_history_log_final.csv
 Final_version/sample.csv
 *.png
 *.txt
+model_history_log_final.csv
+sample.csv
+training_model.h5
