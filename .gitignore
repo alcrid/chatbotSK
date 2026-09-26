@@ -6,3 +6,12 @@ Final_version/sample.csv
 model_history_log_final.csv
 sample.csv
 training_model.h5
+
+# models and generated data (trained on private messages)
+*.model
+*.h5
+*.hdf5
+*.csv
+test_w2.txt
+__pycache__/
+*.pyc
